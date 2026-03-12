@@ -7,6 +7,7 @@ open source tools for managing ecological change
 4. Ecological surveillance monitoring and climate response 
 5. Using your database to quantify climate sensitivity
 6. Sources of ecological and environmental data
-7. Data science and data publication in ecology
-8. Using your database for ecological data publication 
+7. Using data APIs in R with your database 
+8. Data science and data publication in ecology
+9. Using your database for ecological data publication 
 
