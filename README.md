@@ -1,5 +1,5 @@
 # Ecological Data Management with PostgreSQL: 
-open source tools for managing ecological change
+# open source tools for managing ecological change
 
 1. Getting started with PostgreSQL
 2. A generalized data structure for ecological monitoring 
