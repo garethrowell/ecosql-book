@@ -1,5 +1,4 @@
-# Ecological Data Management with PostgreSQL: 
-# open source tools for managing ecological change
+# Ecological Data Management with PostgreSQL: open source tools for managing ecological change
 
 
 1. Introduction 
